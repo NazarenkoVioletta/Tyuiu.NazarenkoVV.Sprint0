@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\noune\Source\Repos\NazarenkoVioletta\Tyuiu.NazarenkoVV.Sprint0\Tyuiu.NazarenkoVV.Sprint0.Task1.V0\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\noune\Source\Repos\NazarenkoVioletta\Tyuiu.NazarenkoVV.Sprint0\Tyuiu.NazarenkoVV.Sprint0.Task1.V0\.editorconfig" />
+  </ItemGroup>
+
+</Project>
