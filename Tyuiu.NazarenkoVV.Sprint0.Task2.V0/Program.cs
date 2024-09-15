@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.NazarenkoVV.Sprint0.Task1.V0.Lib;
-namespace Tyuiu.NazarenkoVV.Sprint0.Task1.V0
+using Tyuiu.NazarenkoVV.Sprint0.Task2.V0.Lib;
+namespace Tyuiu.NazarenkoVV.Sprint0.Task2.V0
 
 {
     class Program

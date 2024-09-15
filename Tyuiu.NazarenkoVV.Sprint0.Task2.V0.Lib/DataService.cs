@@ -4,13 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.NazarenkoVV.Sprint0.Task1.V0.Lib
+namespace Tyuiu.NazarenkoVV.Sprint0.Task2.V0.Lib
 {
     public class DataService
     {
         public static string GetMessage(string name)
         {
             return $"Привет..., {name}";
+        }
+
+        public static int Sum(int v1, int v2)
+        {
+            throw new NotImplementedException();
         }
     }
 }

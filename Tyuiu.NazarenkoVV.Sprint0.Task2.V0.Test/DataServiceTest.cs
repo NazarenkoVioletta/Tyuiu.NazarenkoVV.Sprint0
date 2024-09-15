@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.NazarenkoVV.Sprint0.Task1.V0.Lib;
+using Tyuiu.NazarenkoVV.Sprint0.Task2.V0.Lib;
 
 namespace Tyuiu.NazarenkoVV.Sprint0.Task2.V0.Test
 {
